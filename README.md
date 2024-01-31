@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kimmy</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
+![](https://komarev.com/ghpvc/?username=your-github-kimmguevara)
+
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHF3NGkxMjZpNnN0dzBjaXcweGl3YnZ5Z2pncjMya2QxZjlhaWllaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif">
 
 - 🔭 I’m currently working on **on this page**
